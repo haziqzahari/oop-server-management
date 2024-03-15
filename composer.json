@@ -1,0 +1,16 @@
+{
+    "name": "haziqzahari/server-subscription",
+    "description": "OOP Practice With The Devs :P",
+    "autoload": {
+        "psr-4": {
+            "Haziqzahari\\ServerSubscription\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haziq Zahari",
+            "email": "haziqzahari@outlook.com"
+        }
+    ],
+    "require": {}
+}
